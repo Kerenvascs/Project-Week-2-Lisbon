@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Lisbon Airbnb Analysis
 *[Keren Vasconcelos, Paola Pelaéz, Rita Pereira]*
 
 *[Data Part Time - February - 2020, Lisbon & 2020/03/18]*
