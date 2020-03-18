@@ -13,11 +13,6 @@
 - [Organization](#organization)
 - [Links](#links)
 
-<a name="project-description"></a>
-
-## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show.
-
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
@@ -52,8 +47,6 @@ Trello, Slack, Canva and Zoom.
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project.
-
 [Repository](https://github.com/Kerenvascs/Project-Week-2-Lisbon)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/b/q4hfMDYs/data-pipeline-project)  
